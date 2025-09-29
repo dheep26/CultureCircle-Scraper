@@ -1,0 +1,165 @@
+CultureCircle-Scraper/
+    culturecircle_full_scraper.py
+    culturecircle_processed.csv
+    culturecircle_products_20250918_094210_fullpath_images.csv
+    culturecircle_similaarity_test.ipynb
+    final_culturecircle_products.csv
+    [+ 7 more files]
+    culturecircle_scrape_20250918_094210/
+        culturecircle_products_20250918_094210.csv
+        culturecircle_products_20250918_094210.json
+        culturecircle_products_categorized.csv
+        scraper_summary.txt
+        images/
+            Accessories/
+                Men/
+                    1460-bex-squared-toe-leather-lace-up-boot-black-1460.jpg
+                    1460-protect-leather-lace-up-boot-black-1460.jpg
+                    420-key-pendant-with-curb-chain-420.jpg
+                    acne-studios-fringe-wool-scarf-wood-green-melange-acne.jpg
+                    acne-studios-logo-embroidered-scarf-turquiose-blue-acne.jpg
+                    [+ 493 more files]
+                Unisex/
+                    3-in-1-wallet-in-signature-canvas-3.jpg
+                    acne-studios-canada-new-scarf-caramel-brown-acne.jpg
+                    acne-studios-canada-new-scarf-dark-camel-acne.jpg
+                    acne-studios-cashmere-fringe-scarf-black-acne.jpg
+                    acne-studios-cashmere-fringe-scarf-dark-camel-acne.jpg
+                    [+ 457 more files]
+                Women/
+                    3-in-1-wallet-in-signature-leathe-3.jpg
+                    acne-studios-canada-new-scarf-caramel-brown-acne.jpg
+                    acne-studios-canada-new-scarf-dark-camel-acne.jpg
+                    acne-studios-cashmere-fringe-scarf-black-acne.jpg
+                    acne-studios-cashmere-fringe-scarf-dark-camel-acne.jpg
+                    [+ 507 more files]
+            Bags/
+                Men/
+                    20-inch-cuneiform-cabin-luggage-hl00920clcuntsa25-20.jpg
+                    acne-studios-logo-tshirt-soft-pink-acne.jpg
+                    aim-leon-dore-monogram-contrast-tote-bag-navy-aim.jpg
+                    balenciaga-army-crossbody-messenger-bag-balenciaga.jpg
+                    balenciaga-army-messenger-bag-black-balenciaga.jpg
+                    [+ 280 more files]
+                Unisex/
+                    20-inch-black-white-wave-cabin-luggage-hl00920clbwwtsa25-20.jpg
+                    20-inch-blue-hummingbird-cabin-luggage-hl00920clbhbtsa25-20.jpg
+                    20-inch-crown-bear-cabin-luggage-hl00920clcrbtsa25-20.jpg
+                    20-inch-cuneiform-cabin-luggage-hl00920clcuntsa25-20.jpg
+                    20-inch-cute-bear-cabin-luggage-hl00920clcubtsa25-20.jpg
+                    [+ 326 more files]
+                Women/
+                    9060-workwear-9060.jpg
+                    a-ma-manire-x-wmns-air-jordan-3-retro-sp-raised-by-women-a.jpg
+                    aim-leon-dore-aqua-print-mesh-tote-bag-blue-aim.jpg
+                    aim-leon-dore-aqua-print-mesh-tote-bag-sunset-aim.jpg
+                    aim-leon-dore-crochet-tote-bag-navy-aim.jpg
+                    [+ 407 more files]
+            Clothing/
+                Men/
+                    aadha-shirt-aadha.jpg
+                    acne-studios-1981m-monogram-pants-bluebeige-acne.jpg
+                    acne-studios-1996-regular-fit-jeans-vintage-black-acne.jpg
+                    acne-studios-2005-monogram-jeans-bluebeige-acne.jpg
+                    acne-studios-bomber-jacket-orangegreen-acne.jpg
+                    [+ 478 more files]
+                Unisex/
+                    acne-studios-bomber-jacket-purplesapphire-blue-acne.jpg
+                    acne-studios-canada-new-scarf-dark-camel-acne.jpg
+                    acne-studios-cashmere-fringe-scarf-dark-camel-acne.jpg
+                    acne-studios-fringe-wool-scarf-oatmeal-melange-acne.jpg
+                    acne-studios-hooded-sweatshirt-neon-orange-acne.jpg
+                    [+ 519 more files]
+                Women/
+                    acne-studios-1981m-monogram-pants-bluebeige-acne.jpg
+                    acne-studios-1996-regular-fit-jeans-vintage-black-acne.jpg
+                    acne-studios-2003-relaxed-fit-jeans-pale-yellow-acne.jpg
+                    acne-studios-2005-monogram-jeans-bluebeige-acne.jpg
+                    acne-studios-bomber-jacket-orangegreen-acne.jpg
+                    [+ 462 more files]
+            Shoes/
+                Men/
+                    1460-protect-leather-lace-up-boot-black-1460.jpg
+                    1461-cherry-red-1461.jpg
+                    1461-smooth-leather-oxford-black-1461.jpg
+                    1906a-black-1906a.jpg
+                    1906d-protection-pack-castlerock-1906d.jpg
+                    [+ 503 more files]
+                Unisex/
+                    adidas-harden-vol-8-white-navy-blue-adidas.jpg
+                    adidas-harden-vol-9-metamorphosis-pack-adidas.jpg
+                    adidas-nizza-hi-core-black-adidas.jpg
+                    adidas-xlg-runner-deluxe-white-black-adidas.jpg
+                    adidas-yeezy-knit-rnr-stone-onyx-adidas.jpg
+                    [+ 203 more files]
+                Women/
+                    1460-sub-boot-black-white-1460.jpg
+                    1906d-protection-pack-white-turtledove-1906d.jpg
+                    530-big-kid-pink-sugar-530.jpg
+                    530-festival-pack-530.jpg
+                    530-pink-sugar-530.jpg
+                    [+ 528 more files]
+        images_by_price/
+            Affordable/
+                420-key-pendant-with-curb-chain-420.jpg
+                anti-matter-cleaning-kit-sneaker-wipes-anti.jpg
+                anti-matter-crease-protector-large-anti.jpg
+                anti-matter-crease-protector-pro-anti.jpg
+                anti-matter-crease-protector-small-anti.jpg
+                [+ 181 more files]
+            Budget/
+            expensive/
+                1460-bex-squared-toe-leather-lace-up-boot-black-1460.jpg
+                1460-protect-leather-lace-up-boot-black-1460.jpg
+                1460-sub-boot-black-white-1460.jpg
+                1461-cherry-red-1461.jpg
+                1461-smooth-leather-oxford-black-1461.jpg
+                [+ 3245 more files]
+            Luxury/
+            mid/
+                aadha-shirt-aadha.jpg
+                acqua-di-gio-giorgio-armani-for-men-acqua.jpg
+                adding-value-shirt-adding.jpg
+                adidas-yeezy-slide-dark-onyx-adidas.jpg
+                adidas-yeezy-slide-slate-grey-kids-adidas.jpg
+                [+ 383 more files]
+            Mid-range/
+            Premium/
+        images_flat/
+            1460-bex-squared-toe-leather-lace-up-boot-black-1460.jpg
+            1460-protect-leather-lace-up-boot-black-1460.jpg
+            1460-protect-leather-lace-up-boot-black-1460_1118.jpg
+            1460-sub-boot-black-white-1460.jpg
+            1461-cherry-red-1461.jpg
+            [+ 5218 more files]
+    logs/
+        culturecircle_scraper_20250917_134547.log
+        culturecircle_scraper_20250917_134725.log
+        culturecircle_scraper_20250918_094210.log
+    Old_Scraper/
+        ajio_scrapper/
+            ajio_scrapper.py
+            scr-2.py
+            ajio_scrape_20250929_085009/
+                ajio_products_20250929_085009.csv
+                ajio_products_20250929_085009.json
+                ouput-1.png
+                images/
+                    Shoes/
+                        Men/
+                        Women/
+                            karmen-ii-idol-satin-princess-laceup-sneakers-puma.jpg
+                            women-colourblock-laceup-sneakers-red-tape.jpg
+                            women-colourblock-lowtop-laceup-sneakers-lotto.jpg
+                            women-colourblock-sneakers-with-lace-fastening-red-tape.jpg
+                            women-lowtop-laceup-sneakers-red-tape.jpg
+                            [+ 1 more files]
+    Output/
+        local_product_embeddings.npy
+        local_product_embeddings.xls
+    Photo/
+        culturecircle scarper summary.png
+        scraping-2-culturecircle.png
+        scraping-culturecircle.png
+    __pycache__/
+        csv.cpython-310.pyc

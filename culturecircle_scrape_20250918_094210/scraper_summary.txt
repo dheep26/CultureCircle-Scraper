@@ -1,0 +1,27 @@
+Final Scraping Summary
+Total Products Scraped: 7120
+Successful Extractions: 7120
+Failed Extractions: 0
+Categories Processed: 4
+Success Rate: 100.0%
+Images Downloaded: 7120
+
+Products by Category:
+category
+Accessories    1800
+Bags           1800
+Clothing       1800
+Shoes          1720
+
+Top Brands:
+brand
+Lululemon     662
+Alexander     471
+Balenciaga    438
+Bottega       386
+Supreme       358
+Prada         173
+Louis         155
+Burberry      149
+Gymshark      137
+Gucci         137

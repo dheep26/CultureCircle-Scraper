@@ -1,0 +1,4 @@
+Notes for usage:
+- Place the scraper script here.
+- Make sure Edge/Chrome driver is set up.
+- Outputs and logs will be saved automatically.
